@@ -1,0 +1,9 @@
+# Ignore compiled binaries
+bin/
+
+# Ignore logs
+*.log
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
